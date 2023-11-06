@@ -1,5 +1,7 @@
 # Ex. No: 5 Creating Triggers using PL/SQL
 
+## DATE:12/09/2023
+
 ### AIM:
 
 To create a Trigger using PL/SQL.
